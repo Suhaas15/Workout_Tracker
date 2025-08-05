@@ -22,7 +22,7 @@ cd SweatLogger
 ```
 
 ### 2. Install Dependencies
-Make sure you have Python 3.x and `pip` installed:
+Make sure you have Python 3.8 and `pip` installed:
 ```bash
 pip install requests
 ```
